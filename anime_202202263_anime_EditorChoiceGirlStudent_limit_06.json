@@ -2,140 +2,320 @@
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "-1958183677",
+    "hash_code_detail": "1802259889",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicZRQEqd3ObYRtOfzKN5ilcccBMFC756bi3eVnnaSPDlpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_c2b7ac6882b94cfdc24073a4fb2a2bb0",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXKxRMj8D/RCHvy+3LzZQ3m3EzYA/0Wl143+tvbku3UZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_149772f422c216ccba7a4cadb5a42882",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "1343192433",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie9O+vrYueWHf0pTM08Goc6AQTeuHuxwlZklfisERw15JVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_9949771e0ea1948ee8cea23396190650",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "69219985",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic123sURBZYHJvJJ9phh/JyLdkZrmoFt4ZnVKHzl9H4x5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_36314886190dbf608503000fda519ed2",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-189589532",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiienYJYi3yvIw0jJh6Bon1RzMXAbmnnAES65tLPXiivLnJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_da04a2e95d3cbd20f88afd0f321342bc",
+      "page_img": 128
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-1994259471",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4JA7DkyKjqS9hy420nFbmcGjOTHufusrA4OXty/SmlZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_2d65f1f8860069b4d44fbadc9f176e04",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "1061083474",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieJdU7jvCB1CqkBJ/9olg8JM+04XKblUtx1zyAlL5ArQJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_614b22987173b3d06e5f0f5bd1d65ac8",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-2031378977",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifHjNb7CNPnr/rIFH0soIeTVWrEj8ASIIVs62hWzKXWLpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_c691962f2344ec32dba7f68be584ba6a",
+      "page_img": 28
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "265283759",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFuNt8n359UaqcsDFAx7Ao5ix57ANiGvmEJ8NOUoG9YZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_459022e1dd7d258079b16d6cbacfdbc9",
+      "page_img": 26
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "58659819",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQFMOct+LkZVh64yPmz3UbYmP62mipLAJGYXibaZfjapVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_ad1774328c0e52cdc5b6f8adeb7a7331",
+      "page_img": 28
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-1174011417",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieB1+NE3PvicaGmc5av3PsvlT/k20LMNrmTwmlvaGRTP5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_c1567a1a4b3bd632989ac1428b746911",
+      "page_img": 128
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "1648542371",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifYBNAfJnKYPEGYxIsgFXwt8bmmIOwjC88xN/q7XIl4w5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_03c85bf5a12cf66487c56b9b02105a76",
+      "page_img": 120
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-945491730",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidpdG6YzUaIzWolq/WE/SAFkyzTv8ZktZmtoinzv3Wu+pVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_1fb953bff6138e0904d502d94ad907af",
+      "page_img": 125
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "2000955006",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieif6Ru6tz4Q+MCnaFVTAbmU9mRfgoxtdFSwemPE4XqE5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_d0128d00341a6c2e7618b39b2b5897bc",
+      "page_img": 128
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "171116526",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiftYmsY6trAabCsbGby3e5LOQ+7XcE6m3V3KdsSdb51h5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_5958aec314b5aec108aec2c0066e3fc8",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "1626536028",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiievnxa0wmcZRZIrwyAhpvFh+oR2BExZcgy6LSjt/wnDGZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_8e068f659c5dc7371117ab7f14ad6684",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-378060867",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic5yPtNjR0YgJogKpw6lRt2WHZVpj/5C2iBgLDNKarldpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_d4bb3f49bb01a9b51ba6759a84c99fa9",
+      "page_img": 128
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-2037796113",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifS6mJM5Bzh9U5y8dgWOO8Zi7g6jXVkhgJ/P61p1IBVcZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_b856bccf3ae0b2257bccea8161d5e032",
+      "page_img": 119
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "1613841686",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie0XVDUcbUZ+gs2F//s/isj3Cm1SuJoLkzj3coTXu5S55Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_9d566e15ca32e56a7b63d61eced964bb",
+      "page_img": 28
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-2119220384",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifZ2rMr03M35HHIh9Y/av4+3QqlnI+pmr8dQQ7xZ82WP5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_a010352d6ec3ae64edc855d1f99f462b",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "1248693783",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6fi6VhgthBzoheR2oS6YHWyuMTCZUbHVVcNT67tSUdpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_a6b8706668df19c428cecabc3eba8ab2",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "405724445",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5Dj8Zg2AaEL1kF6rxvVBy1tdNbz+qVaSVWna0r4UatJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_ec0a5c2533bc44c1813752080f313f18",
       "page_img": 122
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "-1716345464",
+    "hash_code_detail": "1608183351",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiduVhQX8MJoGRXHq+D9HY0DYObd85sMqvel7A359GgS2pVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_091a091bb92b651ff57f5ee3cf4d9bce",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieNOyMy2BoWZALNtkfmN1I0gyeLP375wWHb9gYGL+Lu3JVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_a1df5a5a69fe1ba63884d3e3b50bc9e2",
+      "page_img": 121
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-1656045328",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifWUfFvV5mPZGmpnQPIpWKb19ndOaixPI9LGD65wHJRMJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_0e18cf5a1e55e4ebbb52efe1319d41e7",
+      "page_img": 25
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "194471398",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqrnVS+vYowl7p/eJR+hDQ24l96JQwbDoJy1eanbnThpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_6fed8cf65abd828c96d06b3ea655dfad",
       "page_img": 127
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "338452391",
+    "hash_code_detail": "660977383",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicUy/8WvWUhTNPZ6q+uNz+3bscOBVd8QICBLPgCnscAR5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_a81e79ca2cd3081a57ddcd4ad9669066",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1875585152",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidIR7JmKvRCxKMatlJmlURGRjqwQjqLMnQDQpn0JeB5h5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_c997ae46a1649e4821a9cc39d72bb484",
-      "page_img": 128
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "429851501",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1PhmleZeTce4YV8Qx4holny9t+rjVH81gokdS09AC9JVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_51bb153e4cf9c53b14c4d19a92cab969",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "1049965207",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicsTz+ar5qov3N1ohC5epdeaxYZb2AueV/5ay8ovZjqWpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_c894b8e07fa0d540d859e09ef2e9dff7",
-      "page_img": 128
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "1145311392",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemQMQ3Nd4hpxHXP+lfEv9MpXC+iUYqK2g8T+6WFYkwCZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_f69fc232f298fd6ceb158f6a0a94f214",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1757970834",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie4p9M54fhQlY41FuN6pZko71tRAXmngTfQvC6MqkPCQZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_f44f03f9dccfdc30d4ea88e3153136e3",
-      "page_img": 114
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "944962222",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifRtNKTvqrtt4P4XI8xf1vVF75E63DWbxkoAjeTQIKXXpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_ee6be67e2fd01cad616938dee49b5f8a",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiccxYoUZQ3gWiyKIVUZ1LFsduPceCuS7s/MLXmCB84ioZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_f12172b0b6667ac2335510a0f18933ba",
       "page_img": 29
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "1988749724",
+    "hash_code_detail": "326932880",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvrxGL6vpSQORFEPqB+quEHdFpg+u3aI4x+qLFtmdh0ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_9b7fc5ea1af294ed04253afdbfcc96ac",
-      "page_img": 126
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-43380037",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid20bT5XhsbiTQFkmkvkIvSlnj3xyLdP5EitLfipIUE6JVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_90025f8bc29e4a6bdebe37b1556ee7ff",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifxvRfmtLmEpEd9n7fxhrHGsA5VV2dEh456kR8J8z7CEpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_8ad66acf0a2e9372cfef5b066fb51944",
       "page_img": 127
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "-117334433",
+    "hash_code_detail": "-1307335772",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicbAb+gXFnrKnaJLS6FqnE8j5cNO+mph5ZiAqpZVbDoFZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_93a9a275fb7990f7830da78026917a6f",
-      "page_img": 127
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidJNNsq+29CZ6HGyeiH5aQRw9/l0333jY1ZLB3nNtM0eZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_40494ed2a3a1f0bbf325af0734bd7578",
+      "page_img": 26
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "-1918619983",
+    "hash_code_detail": "-1657189673",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1ijuZI3CHcj8d+LohjYUPpl0G6pLpJz4jcXINgcdHmpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_6ca3fd8c14d1eae37e18e6d646b6140c_crop_2_center",
-      "page_img": 127
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicW+VxdB5pPTDefSXxHy0oTEqlFkkmwP5Vc1gmNJFvZBZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_1bb9e0b396af85f5c4d558901641f421",
+      "page_img": 26
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "-187174907",
+    "hash_code_detail": "-76466908",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8e4ib5Bj/cAClytQwvYmztYFoa+DMxbO1CMdmo0chgZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_16c3eb507bb23e92de1a9c50e78f227e",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie+OsInhqmjYUoHtP07sU/r5eUkf3QDV2BOTc8RxTSyc5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_68ed8a57c0f1861061e858ce4291df3c",
+      "page_img": 27
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-113893711",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8nIzdXTE8z7J1VZRF4Y/OKVQpUYvYIDAf44UV3KsGiZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_3b82cfb1e41ca3eca6113774399a45d0_crop_2_center",
+      "page_img": 26
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "1442622597",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidCd27U7OiRjYaXQoIHRwLVoOkgF0cb3ditPbYsjEQZlpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_c36f490060e8932f7f0a374d7e214930",
+      "page_img": 128
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-178622171",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidyvYoemuPEjn8I+u6AzA6SrE0RfDhSI5RpVTe8aKWX1ZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_74e51008cec79c2225f051c08816d5a2",
       "page_img": 127
     }
   },
@@ -152,150 +332,130 @@
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "-1675129242",
+    "hash_code_detail": "897554161",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieWtN643gMYWVUkdqhHr5jbgZ5ofyTcrDVBiT5LIidfrJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_90f0be25eccc19e462f5a1c5147242d1",
-      "page_img": 117
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidU06FHwBe1XPMS0ZpGraFOr6InAVo84t/x316uosR8ApVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_4884eb58837dc82ddb15a562b9887a60",
+      "page_img": 121
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "-1747421050",
+    "hash_code_detail": "-619855189",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicLYBKQyxSvv0+eElpFkwNyWPIUUh7JhxYEgMjgvgHBKZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_29eb3d4260368d7a3fbef7a8c038d0f6",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieuBK2okoxEK8VYGfBVQcYOYIu+D4VLUVUw2nFKWkh+2pVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_400b4a34a8751d934eb853ecdd124de9",
       "page_img": 127
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "121683754",
+    "hash_code_detail": "-693817517",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic3gB20jywEX1U4RX7NKOLq254Y/kAeNqvCoUpLq83gsZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_986b20f24542a502ba4490ec6be8446c_crop_2_center",
-      "page_img": 127
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiffUbc+UlwbnL4EIt/e0+pA1ExtwZpcA+RIf/4hL6D7LpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_a9f07494bdfd36286c6aed7141eed75a",
+      "page_img": 28
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "412957988",
+    "hash_code_detail": "1192915150",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifBqG1VezDdZ4f4duP+0XANAyFLq33MkFqtVqQWuPGE7JVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_12a01a1b20dba70ca1aad9f71aac0c9d",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "1347223965",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/LN+uTRsZWWLpDunrieA0ADzfIVJEOnQgyKrlbvYK+5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_e6db47b45c881d0f4dc6bfc045033160",
-      "page_img": 29
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1089610298",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifODKp+0CXQ2Dfgqn4QbZMFrfN57Lv8q/ESSSIUdgjXYZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_bfc8e7d8f372cf85b56eca69eea1025e",
-      "page_img": 122
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "1803267216",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicq68SOMlzaFc8RGq7iDRSvNL0DwYzqHIXndOT46G38i5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_90b776c3999e7431c9d7d50f1d7a81a6",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-687763231",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiftnFUDOVwc5PpxTbjixOyfXtqZMo8L+Na2fYHe6hVEEZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_6ae913c760bcabf390d9f3483b8b412c",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-595954202",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifOtgRda8RJtge9xh2LubN2bLL1h3yRxT9dWPDcepK9RZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_49133d915adf0490d0f2a2ae7736d158",
-      "page_img": 108
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1307335772",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidJNNsq+29CZ6HGyeiH5aQRw9/l0333jY1ZLB3nNtM0eZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_40494ed2a3a1f0bbf325af0734bd7578",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicRLsbzeKW849bLuV+QI7cOT6Mo/9qE5uJ4DMPq3/tFYJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_1a259c70360a20d44e42633ab7fdd72e",
       "page_img": 26
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "506429840",
+    "hash_code_detail": "-519998021",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicLu9qje5cGPEFM0N7w6hPwX3zJeYwL/Z1w7DVgvMwsp5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_8551e95a45c15c55b5c0ab1f92301fbe",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "1019941099",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiico/ft0GYU6ND1edreUy7iEowW4BtdlQe2Kg4aGRAP7v5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_629c2d04ddafdb16e4d18e7ce275e4ac",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "1592487884",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiien15Z0DtxG8GVr+LQEC9bb+bUfXhQ2ZmWLwl6I6QPoXpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_d00a35593558714027255c99c866f31e",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieouZX+LHl/3bCg4S9jt10a0gZWbIOp7tBd+GESmCayHpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_d7a086b90435357fbd3c6b1e704857bb",
       "page_img": 128
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "2042617544",
+    "hash_code_detail": "1276756035",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidOgdzpSG/ItW9XEpYRYMrdRkw4hCxtqsT+RzKBlpVDNZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_fb7d2a5dbe7c3aede6826d618b490a8b",
-      "page_img": 29
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicKEYnUZaVEFP2Joz9QEQ9NYrhf7uMS1I3Tty8erQcy15Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_add25a8d8830b7a44ad52500d604d6ba",
+      "page_img": 128
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "1802259889",
+    "hash_code_detail": "1565841799",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXKxRMj8D/RCHvy+3LzZQ3m3EzYA/0Wl143+tvbku3UZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_149772f422c216ccba7a4cadb5a42882",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicZdtn8/63f8wty5wxv//Nhb7yo6SdEhUB0TftRdkFCHZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_3ca4cbd7f21618689fab073212b477d4",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-787146795",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiielZGO4+VrIc56+G/6S7NYa4tDF43JIWvbEB5BK32Nl/JVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_cc01d9965e48dcc8cd243b5d2ff014c0",
+      "page_img": 128
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-1296914077",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieelvSwzMkaAxbz4img0Y8N7gDIGNFyd75TaBf1QVvLJpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_13ec845631051a2804d2fe7ae2aa8867",
+      "page_img": 115
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-297108655",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicZuFntGGXk4GhTMsrVCk4ApxNOLB0wAJ9+Vytz2Ynuf5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_0a84f96fed71f86f3f09e438af9598df",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-2101408108",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid69gGlyPcd8O2ss6uArwweMOKxnS0tGuAtgLoY3xgoypVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_12154c0e9be97d4d6749f6efae1974bb",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-69080479",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3siBdQXNUpg4Nmn/S4w/cApNgY6pSYmJ1Hv3wJfAepZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_4b8ef670772874742ada1cbca486b6d0",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "116796702",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid1s+ZT5qcerCKmMiBi5/0dauB6mtAwPva1j/myJDu2iZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_48f74554b9553a9bda6d8b1d9af3f0e6",
       "page_img": 127
     }
   },
@@ -312,41 +472,151 @@
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "1674268473",
+    "hash_code_detail": "2062216341",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifHtSCnwHrmwYRUJ9o0m5aZchblafGpnhQ6bjDzW5uU8JVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_478e31f873c2806049423ce1ace75745",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic+2zb8XNpSI14pFhSf629Kudsl2Zgk2Vz6mcf3IK1ewZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_889379c0f159fa051125afe6e861851f",
       "page_img": 127
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "-1577359787",
+    "hash_code_detail": "413597875",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQGY8cGoouJsjB0qmLskaeTF2AxfmdkwFmgiWMZrz02ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_af2afbe885601bb03933a2b108bf8118",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiclVd8EHZH9kkJxOkjvXcidkMSgj6346Uubbx23OdBAGJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_147348be4442b856caf4588c2fd4e27f_crop_2_center",
+      "page_img": 125
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-1740219538",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic0HsCL0R87DetFzndPLpdPaEKARmDQpFp+aVwN/KDsr5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_40df3512d502f02a4188b0572323cfd3",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "1398219072",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicSkyY4ZqH+t81xL8U64nkvTMTZE+hPakFDGT+q+SkiwJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_209ac8104b62158626cb00d662d1c37d",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-475929851",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJRJWzvdSAn9GFlfdwzYOuj7oxhvsxajkCtwB9ns0KLZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_aa1709420d31e9303d541ae921974d70",
       "page_img": 128
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "1019887105",
+    "hash_code_detail": "1764712738",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiegpNZGAM6FFdmtW3+62ZtNbrfMXDMciC0ymqv7pUQpEZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_63f70646c7357dcd7b7e789b7372ed3f",
-      "page_img": 27
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic2uijro3iVPQz50wiGEJ1jfsUpoLOrAhqgpARmmS8Pk5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_88cf364d5c3413d09b245f5d2adfa101",
+      "page_img": 127
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "1454646617",
+    "hash_code_detail": "-878850278",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifWQHf8QZ/TGHyDW8L5no31eQiTE8myM4f5Ux32knaN75Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_da942f6a23cc525dcda6d8d9ccc5ed85",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicr0sSy2YoxPZXEd/IPTOSLHL5SK291dot+UCMEdw0IfpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_994f5993028625c175e94ba0f94a4e29",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-1023386719",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifiWvDN/u6TarH7oCWH8K57mykA9lNS2eHdEoySi+NcxZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_4b744a083687d2ef9876526801ee9957_crop_2_center",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-202543167",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidNzF0BkOtLIw8uo+satwmVs73Wmimi1jo6Xcbce3qiCJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_1d9cc60d8300a609196f6f6ac8b41f4b",
+      "page_img": 26
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "1815647300",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid/8Vg0FVcaU8m8pG8BfFl9KdIzjVeUhuXX1yBYSaSxB5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_df038f5aa3587d90df3a1644ec8f8d3b",
+      "page_img": 109
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-1630276296",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiierb9floFl0G1xN1fZ8Aoe2atnVv+trldHdehNhUDyNqJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_4d77156accaff0722bff9cd4d6c14925",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-1885972637",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKtx9M9zm25EEu0pz4wtHb0efRIaEpkxYo2ybOHwiE0ZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_0b71740e46fac66cb88754e6498e2468",
+      "page_img": 25
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-1997159500",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicVHTp7/+K0rx6CM0Xxss8+ONnjIFIQyiyBEpPw+Yy8O5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_bd252d494541d0ba85a4e2ba0b0a9a8c",
       "page_img": 128
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "418724685",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifsc/u782uNomuhNKFNe3AJmRJQFee2IYtap57g+9xvrJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_870346f0138ce342e80eb0266483f3e4",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "1471762725",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicdzX8VMSwZUWvoZYv5IggrfqHoly2+IkXGU8uH36VlL5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_8db2d0adef27bd105dc85703351772a1",
+      "page_img": 127
     }
   },
   {
@@ -362,220 +632,270 @@
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "-1024406915",
+    "hash_code_detail": "1679906669",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgOEgEiM9lj8UtFpEr9j7yR2PN/ZPMojvGCSyZw6LmjpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_ac174caa74ca1179cb9215a44fb8a511",
-      "page_img": 128
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZxz1af035J91k8MJCht11AuJMmpzylsINZjXZ2vuDVJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_206d3b355e57ff0f1c3d99516da52556",
+      "page_img": 127
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "1676136183",
+    "hash_code_detail": "1351630497",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieRCNRAkRsVcVxzKcuE82Aj2a1fUktjreV8ABuqVpiFBJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_aef82a419c83541107da27034c7d9aff",
-      "page_img": 128
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCTf7YcOcKIl+vI5mVKndpy/XVYfnr9krq4SG8bnubzpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_7286d72b719ee300414279740e455ec7",
+      "page_img": 127
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "425570324",
+    "hash_code_detail": "-1655933470",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSm5MfaQdTNwzvwMr40xCnXdX0/3BowMpDoEVmxvmhyJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_a84e28a18f227a25fa85a50ee1add0aa",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicF80+//bP4r7qc0laPpIcAMdo81ELGdnRw7NLvc3gm8ZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_7e7bf68999ed12f4393a2ef81750675b_crop_2_center",
+      "page_img": 27
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "1339936471",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPRlGR/8s3uAKpJImqcEfAT7BevdnG26v8CRxeeIWlfpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_cb114b64215226b482a2960acb879ced_crop_2_center",
       "page_img": 28
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "-2127032119",
+    "hash_code_detail": "-1620877822",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifbxmTM5WDyoVYkCmGSwjcWJDNklcOaZp+3bU8TqaZXl5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_341adb4be3be48cafb7e775f5e5afe32",
-      "page_img": 26
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1335920830",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKUdOhK/Q6ChBV10oxqwTWirPaZp2ClkResgSXYymAFJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_4b6828aff0d90d2327519710b50efd45",
-      "page_img": 26
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "99202540",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejWB1G2FmsSW6VrV56erpw/EV1SpbFASD+gEtVg8qVfZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_34830ce12a2d4b57e5d37246ce140b3b",
-      "page_img": 125
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "768223285",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifZ6Z01ZvF/PY7n8VA8mfQaz9AvsjMtnmi7X7Uol0uHAJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_48dad8c839c5accc64ba4a109b56d01a",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHBXE3sT0sXdBg8LZmU6euP8YyTGlKfY8fB7CPR62sgpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_73052a041da8fb0b7c37f5ef1ba86d4e",
       "page_img": 127
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "-2048115101",
+    "hash_code_detail": "338452391",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgDgk64X6SsvPgGZz8f+0gJ1FhYlc6sJs3/jCjDkaTd5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_17729d79dceb61bbd0e98e0a7344a280",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicUy/8WvWUhTNPZ6q+uNz+3bscOBVd8QICBLPgCnscAR5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_a81e79ca2cd3081a57ddcd4ad9669066",
       "page_img": 127
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "489733649",
+    "hash_code_detail": "-1194260366",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicDgR4c316aA7g5789kjgWb+eLoYSjCZwp1/j60QIjZRZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_4a738b119c20067d899656bb4b01775f",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicUjVQu8Y1KoAvJXOTsJHM1fxdLKQ1HfCdNUAQf4FbM6JVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_8b2349078d4c3a749afc36c4c525699d",
       "page_img": 127
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "978830279",
+    "hash_code_detail": "-895147118",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic+bnFmocdwpWkckcVuEnKZawCr+5NM8dtvhx+qT1oymZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_a7ce17eeac152ded7f92c8006edf21b1",
-      "page_img": 113
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-204963926",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieXCjg1McvU8anLpo/5lLD0bKsSFQ5B4S9QhpNkn/doUJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_31efb16669be0068c0d4a743179f850e",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1502562751",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie9BelrwpT/ILSYQwj0sWEzcBYRZw5xmAS4B3xWTn7QGJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_34960d14df2c9d7c63816f6011101014",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-247331613",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidKLL/em1ZIEaoyRLM++tsdHXduF845nGAN5dXb33rHiJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_8b0b1ed528b6782c9d5e07228c33e4ae",
-      "page_img": 117
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "1600727850",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidtEzMFiF2I6cxXvF5zGWh5RAsR7GUpMtOig0jwqNSRlJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_573dbd2fe0ad4bc2d0380b0c3afb75b1",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-2084708239",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5Dtg747wsXESnuQ8lSk/0pQwXfmwAtbeS7qbW+R9jypVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_197220bc7dbfe7a7034cd4190a648509",
-      "page_img": 26
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-892300229",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidJhhL/jfw2nh4LeZoSC9c0yhaxOK7Z4IRrq1DXpK5OjpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_6a136af42fe4ff7d8d3029588cfc3de9",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-326282938",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQPCe+YOGLZfw3qREN8ERr+4TPwHguaEdC7yDYYqWh3JVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_8f9835c9b1819c1420e4d0e94d77df2b",
-      "page_img": 113
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1295044378",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicEGNPtpL9Gnqjy0bsLKqLVeOS4ceMyxaL4KPPCYqJwbpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_196bbfa0328d3a2f9de1a7f29c5fd0ca_crop_2_center",
-      "page_img": 26
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "394835111",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiictRUfWAwfAWFppyKPRCK48LGW1y0Ia2DP929mA2+Nb2ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_20357df491cda7a046c74534bb5312d9",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "1012883092",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicVFpZNOcbXIhWvneFFXDNELJDUghytfncWsk/YxBsXkZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_e8b71a1bb6a632939ab4de1aec14b215",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidYqmpHIbGwV3mbBHSVr2aknPHtRL9tWiisIfzSzaope5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_fa671dfc7f19a06a452b71a6389c58a1",
       "page_img": 128
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "-2078341483",
+    "hash_code_detail": "1855294900",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvQstz80d9gEbDKpXB2n4jT5OVswgW10fOd0o8u92m+JVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_fa48f8b356fe9765099fc21064164bb7",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifBj7GNo0ZPFYMy3Y8zXQ2IwSPJOI63VB0FfN8EGMblr5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_9d9822136b2674130444feb02b5d886b",
+      "page_img": 121
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-356265394",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifupFnSJW+pFkR3//cjevms31ZJLBojVkw5CnKulnanPJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_47834c64cc72bc34d0df2a53d66fd461",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "638586587",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiichnXdJpqLPl5LKbn7sxJ9xdkCxhmfx5ZOELRxmNHll0pVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_bf189d5b22e112711f9faf8e405aaf69",
       "page_img": 128
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "-864961130",
+    "hash_code_detail": "56921363",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicnoKYUqbDhY1RPIHWHH6coiNdRc6snDTQqphsaIMMCnpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_8718e705bc74f3ed5ffaea8c3a03bab5",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiePM7wbAKZ/QM3SzdoamWnTUFJMuQw2ajTTLL1sMFb5X5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_3bd6566dbe13e2434aca36867a1312d4",
+      "page_img": 116
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-1203213982",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif74fKxhITnYP6OhZgswUYJEO6Zmf90nwVcCi3fTmyKGpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_8b976807cb10d17e7f0eaccdd9c08694",
+      "page_img": 126
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-374608210",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifIwh3non7/7Y4a+FxUKdVMOPXjWIamuxKiOqXXr4xelZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_1d3d9ab9ca3148c217d8f6b00903ce33",
+      "page_img": 121
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "967314591",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieoPn26ZKk/4b+h3nsgshCnso1E7VwaEh3VayjHZ7l/CZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_c81f832248e8ccc002a3025cff12edea",
+      "page_img": 128
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "367792157",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidXfnMXpBgbdhTV0uzPBM1wB0uuga2yQ7hrr+GCE3UTRJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_6eb8413ad15ee992772faa6f9815f4ef",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-1631667654",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif8thn5PujgqANcklU8k7yueSNF5NFpWOmv3lu0Jf1RpJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_c473d2d59df0061fad97e1f826c361f8",
+      "page_img": 122
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-1793268593",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieXGpyOi2CbPIIEaYFtRi9ggcvkOrFH3o7E3P8gmo7TIpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_2ebb053237bddb88d4218406a8ba9e5a",
+      "page_img": 26
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-910587558",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiei/BKGf5tFbctADQRPuXdAls7bfxDdqMt81FwsBuSVxJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_b36c7b73aaf817aa7123fd88e043848a",
+      "page_img": 28
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "1621981610",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifHjYCh8phQcKYxw9VWgs/Ab92W6HeGs9uRq8UN8Ze9KZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_832a95ff6e7f36bca4c2d26ccc4aee1d",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-12080000",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif0umuuSaxeL72Igza7zN097EO1JCSrjFKdN9NNvyTjfJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_f82699e97cd5960dc93ab5276d1f6b37",
+      "page_img": 128
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-517302152",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidIsFADQo56In4j123mUblLe0F3FeJvk7Ima4H+g4dUVpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_998cdff6732b84914283fa339a58e138",
+      "page_img": 126
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "371005711",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicYjWzyGNup3UvFhUA8l+SOJ0ZvfBYEPvuXh2/+vIzUzZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_486612467c095397cad5ac4321db5940",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "842315721",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidOG2+IBjpOwgwPe/wfSxwATrQ4/M/apD1LrUYTn1WCJZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_58f2f2bf215f95eb5583d2f9d36e32c4",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-198615692",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidecep+VGmNHCL7PNLXtL1RG/yS7/zKj5q1MKRcfz1Zf5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_a561377199c1ee364ee5e9afb2058e02",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "245370077",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid03XOKiQ+pyqIhdfe3CGZfdwqH2dvwgKN6dPqM7RLPXZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_4091750486213e7c44b6e2e53267079a",
+      "page_img": 26
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-470346947",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicek44stpz6icsDCQQbW1XNv2HX2V7nW2VIeXR92RAUYZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_2da59451c1bd95c19e98fe5f41979a71",
       "page_img": 127
     }
   },
@@ -592,190 +912,60 @@
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "-1084034355",
+    "hash_code_detail": "-1239563094",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVapr0O5ZqxNYxfvHzkFPKing38mzJAiAxIT7E8JKu0ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_7bed844c157cb3c7c7f0d8117a6212f0",
-      "page_img": 117
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1447370423",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieJuy7ZNG7TZSo+AzrTWXX69e553zgovDqJkTcfO8AdWJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_d2d4c660c47bdd458712c26cbf667856_crop_2_center",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifo2n3VGOp0EsEfSoV4hyJfI0nMDBD+PfEFpHV6gtFCC5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_cd0486362112fefa46b6431b7703d109",
       "page_img": 128
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "1960053737",
+    "hash_code_detail": "842525252",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiici699vP7AvVR+mSksD3o11jshb5Hi8pGapVlf6d0o4QZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_37e0a80020e87c419a3a8e1c290b1bc5",
-      "page_img": 121
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1608994701",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemPemszz9gpGlIyLgE6cDXhmwEa0m3mTWqvoigMJlAQZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_cda688f5949049c3d7e96ec7d8c03592",
-      "page_img": 128
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1372615367",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiftixmUQvPiDoS2abbWfOqMqJgy2Wx037uKiyqdvvM2q5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_17a1f1455f12a84b36ea5e9772d4aa48",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieIyMDTs4cb1s7RKZrx+yD1XnYAPiP4ysFA5SPLC+brh5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_5cf652dd2a10bf1ca403ed704ce7bf99",
       "page_img": 127
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "1175332459",
+    "hash_code_detail": "315019989",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif2MqYZ0pCfpnm/+e93mXtxz8Lm/951vCQYx7OvilhDMZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_fc768b888686ba10a481533c70382894",
-      "page_img": 128
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-807762684",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic9z07jrG/Zq89mSrUT22E2EPnxYvt1TVBqYZW/w+Su95Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_d9e2be5d7bfb70e84c810c06ddc27fae",
-      "page_img": 123
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-270532383",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6E2be6ZQ9uWwEskmLoQq+rQqz08fcZ1pB/Ly2OSOa5JVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_b8fc7ebea5c9c78ad39eb08a4e7afd47",
-      "page_img": 113
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "407014192",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidBrioFRn5Lgi68VT3LIyVaFPLBl/zOJLih0n4lbRF0h5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_35bcf85d282fe48bd956317560282a10",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifA6t0kHnCTs9YHbakxegfLvU2ftT7bqJREdedNiSlvhpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_a4abfbc81b6d4c1ad6496a230159f08e",
       "page_img": 127
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "-1023936088",
+    "hash_code_detail": "-1958183677",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie0UBPqkw680QSX/akCudc2YBVsHSqhypDw+X7o7NBZqZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_4a8fc4128958749798bfc7a07f691b78",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicZRQEqd3ObYRtOfzKN5ilcccBMFC756bi3eVnnaSPDlpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_c2b7ac6882b94cfdc24073a4fb2a2bb0",
+      "page_img": 122
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "1221952292",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFdBgSkF7mDwZ4RFYaKA9c9lyu0FifHela5U9/maCcR5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_9b486964e15794cf8631cf9efdf15105",
       "page_img": 127
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "-1579110610",
+    "hash_code_detail": "1347223965",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieEG/rfkYKki33tvWTQm1KjBUxZdu2TqsMH/SSEfFTFgZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_00644fa4eed86c2c395a753e7e1ecda1",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1651216562",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidOpng10ucee3w2Ir+n/zSLo71XrqSwn5TRYrYPy7+y6ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_fcac0fb6e712fc10daf0a7610d79267b",
-      "page_img": 128
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "2057420430",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidy8VOKaUcRksyHfpgJd/FshH1XGdzIHU24z2MdTajPtJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_fe6ee4f7315fbda7e523b8f0827286cb",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "1548614143",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicBFoTZLhKd/L2nkzCw2lihLHAo3w7mYK9TPc54DfPBm5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_2a897a40584cac6cea5b7f8cf09d21a3",
-      "page_img": 121
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1497046381",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiexIq/ykQ+4QtqatzDY+OS0BHsNA2yiM9dJusSBTbzlH5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_ead1cd0aa2c834e7d11a38ede097c437",
-      "page_img": 128
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "1524912412",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieWZgJUmORC2J70SoHEJQiQeIYCHFrxUEerAjCISHcRt5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_6cb55e643084a83b1f7e8ec5dec3b546",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "1648542371",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifYBNAfJnKYPEGYxIsgFXwt8bmmIOwjC88xN/q7XIl4w5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_03c85bf5a12cf66487c56b9b02105a76",
-      "page_img": 120
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "458803264",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiekeug5LM23wFGNVdKo7A6o1U1asypVPJpAHKdUmTVeH5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_fab17f13b192e77bd162e62829b28cfb",
-      "page_img": 128
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-27346038",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidp0xd+OLBdvnoHiFTPaWlRhv8dtbNf5rAoOUWgm4Yvx5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_f73ed1c3a79f4158132a7b4b3c524b0d",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/LN+uTRsZWWLpDunrieA0ADzfIVJEOnQgyKrlbvYK+5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_e6db47b45c881d0f4dc6bfc045033160",
       "page_img": 29
     }
   },
@@ -792,291 +982,61 @@
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "442483347",
+    "hash_code_detail": "-223912763",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieV4qFwGfgzrDbcMYiI9mZVQfmkD5goLxZYdU69IlnB6pVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_7eabab171aea778cca8deb1dd6e9c46a",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicoM3oaSL+NgEwP/N0LZZCPRDUPZZb+1iVftUCRu4aIgpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_a3812aa584bc1fc9549f081a038820dc",
       "page_img": 127
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "680943882",
+    "hash_code_detail": "1599297690",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid8EPqycGFeXsZdPZJtrhqlOMfyncxzMgvvukFd5do1nJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_189624328afa86e227e6e0ee47aefeb1",
-      "page_img": 26
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1401684007",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMPYE6sq1fNNh39XCqnRJIY2jQmfNcpB1ZZQCV4ObtwZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_319eb89b28a5f4cbbdf0fbe46f721518",
-      "page_img": 26
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "920617385",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidR7dxCKMYSmBU0bQ7Uf/5s/r9N1k8NpbPhs/3c5Vxv65Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_b36e8c4e518e9536c57a9e8d19688cf4_crop_2_center",
-      "page_img": 43
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "1016227303",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifOmYM9PTIVsJwfmOSzYIDDhZfWcsnH21WPeX0lBCdmwpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_028f29485eefbd76c1ff47f4b1fc0920_crop_2_center",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1073858846",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/PuV5Y02oicf3Lcrd2y1t38dyyGxnP8glcgZrOteJrpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_bd65dd7885403a44658f3861e4024f20_crop_2_center",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiepKukOGyroj0uXE8516QNDmmh5Orc6WoFVtRakaMZWmJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_b56fe347cdef1203597745de165c9e2b_crop_2_center",
       "page_img": 128
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "-816710850",
+    "hash_code_detail": "1099425506",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidG2AuaThGV2nwdfQQ99LY74exxEqojE4zHS6VGYI8VBJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_e9d4baaaa3272e77209a84e3dcb07bf3",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic+GhaaVHgIjDuk0dTKgvivX9CcyMQRsJrPFY6h7IojmJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_26cb29c3f9293f6635b3cb9e5fa6ce70",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "1267623065",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMqh68fhvs4hVtuFk3QoijjK1vKOTKjWMTp4TliFNLMZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_d383476303f77c50a332b47254ec409d",
       "page_img": 128
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "-82096762",
+    "hash_code_detail": "-1583776188",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieHDI4W8ruXcQnG8XQcFZN+fm9Wt1G7YdLRNphsTITJaZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_51092a7b4418972a7e18d70d1f437b15",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiift3w8ZpfbPuSrjtvZl4CwTcubzbkAMEvvJRqmW+KsQcZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_933556c0b9105eebb4ae0404fc367442",
       "page_img": 127
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "591201305",
+    "hash_code_detail": "-928390520",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicK+oinYqxGM9EnQNWqT3f3/Sg3dLWVtJ9Bi5k1se60/5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_01ad53775b2879df8c2413f218334989",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifHTDqLlevsdov2KZTExwNasVDDgtxP4xv1TWpRfv0BN5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_2f6f10ee12756e536bbdd3b2359acb15",
       "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "1429446989",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicf9BZ7BhIhCSBmjazeIavMGeMKC/pYZn0Yxqd354138ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_70a1b70aa18bf7df6ac8b50162e5b596",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1231883051",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie1r4mck9GwC5qBY6E2s5Xf7XiuVdNSL33IhL68Td7H+ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_c2a2c009d84c5d5f4ce95398ce6160f8_crop_2_center",
-      "page_img": 128
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-819874461",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidcRx+gJmKWiitQ18Q03sqee+sV0gc2VQ43nJUaPeS/zJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_dc41273cbaa8d79fa96fac457b49d926",
-      "page_img": 128
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "1976273886",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifbqo18TxNEKkSzJSxHbtWzO/fF0AbuxWQFrzM0aBL/vJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_a737e157c3ed4d6dc8f47d83deb77ad5_crop_2_center",
-      "page_img": 128
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "977049382",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicKI7VxfNBxUWP6QghCiVNKgB+Pt2PZh/0Kd+GEpM2LJ5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_c57c97829e8127d4748d27bb6e2d8ddf",
-      "page_img": 128
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "1895332491",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieExgrRCRFiEpCbe8jN1WDADHNd6EaFnmqycJM8EJGeHpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_2ce68350080925a9786f66bad9432660",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "893158600",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicbW8pNErq4dYM2tNLBBedbVLDeHwVUd5agdaZg8YOwTpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_9588e5a4744e8d04ef5faf0b0c593a7b",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1964656438",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/pJ8qUrmjkm7WasE0opy7jUdEfGu99IMrWJJEkruRIZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_5d47b198146dd11f9930fbdc352cb1d6",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1026519248",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic62BbK8JsIuZEY57Wa2EZuEWK9Gl/VjcH8W7CMMaNQa5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_463c2f1dd986f916ddabd4f92a2cf0ff",
-      "page_img": 126
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "1771002618",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidN5nHZX1MO1VKq+jtewR4QPtuRrmIBhnWjDYLQP1yE95Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_c68b1c8ad496384eb634f6c6da8f8b4c",
-      "page_img": 128
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1885972637",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKtx9M9zm25EEu0pz4wtHb0efRIaEpkxYo2ybOHwiE0ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_0b71740e46fac66cb88754e6498e2468",
-      "page_img": 25
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-421499934",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifbtuctvU4EXkw7UJ8w6752blvm4uJwRg4JORRU5fUuXpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_4e76ebeef812d297f65afb6e84873261",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1870616102",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieUiZvDpvr+48LXJjhzHkMcqgqEFpOz0+KsxtbGh5yEFpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_eefd9ecc90cff2a495001d9b89462132",
-      "page_img": 128
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "1673577969",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifWxCHxn/ooOlk1aF9OcB3zObjMQfJxwwj97quQ7eEDtZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_1a988dd2ebd0d60c401fe28633cc3283",
-      "page_img": 115
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1465167307",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif6Qn6Iz7UMFFDuB4fgdtXda6JTaZ/29Kt/mD/8r8x95pVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_38d478a391ae8c06137b6baa12d5f03d",
-      "page_img": 108
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1409914157",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejrtSYGSI0GGpMmkvYi8o4UIXzzeb1som9po3ce9Qhd5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_5790114504d6b8d5c5f18bd08df075c5",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1717859700",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic79YbEVMJEon/hQpUZxre3GQDVEL2xX52EHRvJZvVUQZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_754451f4b00f58a54a43a6e0de381217",
-      "page_img": 121
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1028452808",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiideIAX4zWHrFasMFMewHH8qVD1BvYT1LRmF+GIT1HqnRJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_bdbbffa5d3dcb97324e7f2839271a3bd",
-      "page_img": 28
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "2143533962",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid1n9TciM9aZNIEBWZBGmHvxGYfTwe0gknU+Wf9ulk4n5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_1ae19d0f65a03efc97df336e31f96e2f",
-      "page_img": 111
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-945491730",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidpdG6YzUaIzWolq/WE/SAFkyzTv8ZktZmtoinzv3Wu+pVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_1fb953bff6138e0904d502d94ad907af",
-      "page_img": 125
     }
   },
   {
@@ -1092,161 +1052,201 @@
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "758260515",
+    "hash_code_detail": "1914676362",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidrYujGznrFGeYP82rRoxDi7bLvzirY/J9d4xW1JfcM1ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_e267485d77a465c1f7ccc315a9de0429",
-      "page_img": 128
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-598497608",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwktPFBGhMYtgDLmUwBAAxfVSZjF4J/157d1W0SXoAaJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_ec239811eeb9d40cc1a60a2df5867885",
-      "page_img": 128
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "2056570459",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifCYqMv5flYOIbBmtEfOP+eFPnkkIj9OU27BjzFdtu/V5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_12070cbad8413e7921a904d22f2d41f9",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieL6fvbu2l2l9w/dFYgzLUd4OAS1n44JddBdUjC43BMxJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_012cccfd33bc9cedd803dd9a492a53a4",
       "page_img": 25
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "1826215751",
+    "hash_code_detail": "606100523",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic53qPquB4hkbCeEX18xy8CGDfPNbipnWjfv+ZAW6dQL5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_4b164992d3bf136b2a0496a1d99eacff",
-      "page_img": 26
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-198615692",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidecep+VGmNHCL7PNLXtL1RG/yS7/zKj5q1MKRcfz1Zf5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_a561377199c1ee364ee5e9afb2058e02",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6jF7Bml1KZwBL0j2gIIUqV6GVwmBAmRQjyul2guUmMJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_528eb01f8ed22dd4926a41b17b62a045",
       "page_img": 127
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "-1863174145",
+    "hash_code_detail": "-1683169122",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFcOCRdBGH1YrxbJU9Cy0pXqg4GmbHAOTJ5HOsD2jpRJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_a726c1e099bd85ad22dca27a705f9263",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieHMuNYkV35aqOvyyBc6PBHY6R2TWse5rcEKzqEWND3NpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_67e5ad4178506f30e69d3b47ae0b6ae5",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-421499934",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifbtuctvU4EXkw7UJ8w6752blvm4uJwRg4JORRU5fUuXpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_4e76ebeef812d297f65afb6e84873261",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-979348641",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieqAn/baM+qi7OR/TxeUOj4iMObllooOLZgv3Vuew1kjpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_9d2c40a55e9800954b15e84859e9f182",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-1876657736",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieNyH0XbVOp4dhVf8t/qk9Iu9Ut+Yh8V93IVwuxcrrzU5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_b9cf45b30bba604a87c2617edd41a56c",
+      "page_img": 113
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "882034525",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieg72LsEVMT8aL6kKnWVeSe5P6Q/5CKpOhyILrECC5ku5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_ff00a2b593f3b1ed0f6034d07a151da0_crop_2_center",
+      "page_img": 29
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "425570324",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSm5MfaQdTNwzvwMr40xCnXdX0/3BowMpDoEVmxvmhyJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_a84e28a18f227a25fa85a50ee1add0aa",
       "page_img": 28
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "1679906669",
+    "hash_code_detail": "-2056632884",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZxz1af035J91k8MJCht11AuJMmpzylsINZjXZ2vuDVJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_206d3b355e57ff0f1c3d99516da52556",
-      "page_img": 127
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHmfJMFIe6YtqUxZ0E1R9jmyqLaQz2RgeqTl/L7xkcMZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_17909163d6a8a1203c780019ed6b97ca",
+      "page_img": 108
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "783462125",
+    "hash_code_detail": "229541621",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidrZoiIeK6UVM0Q8NfRyPXL/sVt1EUpHXXEcB27UQ4v1ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_32ad940ba49b2ecd1b1131a9d3b96ca0",
-      "page_img": 112
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1598985091",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifcyTUhDlu3sq3IG6y6Ko1crgtBswTfX0mW4MO+l33xFpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_8e2ce80fec14071f39f522128ecbd0c3",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1369870184",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif2QX5/img8DzV+hIMRzQrrA/+n67nXC+/+qnWvDPSEIpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_cf499d91b23aaf92413fb04a4afd5419",
-      "page_img": 122
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-875268840",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiify6WEx1DV+Ac9A+gt7nlwxjJPRCTw+CGhCt7hC6WGwhpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_140317810fe4894d3d306ad9fb06b196",
-      "page_img": 126
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "116796702",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid1s+ZT5qcerCKmMiBi5/0dauB6mtAwPva1j/myJDu2iZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_48f74554b9553a9bda6d8b1d9af3f0e6",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-2092623798",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicPIFHx4hRroPjBDv58+hNXVR/f1o62xhsGr93pf2M8d5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_7427721c27eaa15fabad4391282525b4_crop_2_center",
-      "page_img": 127
-    }
-  },
-  {
-    "id_tag": "1263817105",
-    "index_page": 51,
-    "hash_code_detail": "-1009043098",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidL9qw7y+/ErUulGWLbAVUTRr3Fh6iuCM99SfvR6HDD2JVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_b59bfdf81eeb317e91bdfd00b75dbe58",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiclflSOYtUcjcHBjyFicknx/dYmPd4uKl3T9hwRB/QdPZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_c3d0c134720b9c9cbb26e094dcead7be",
       "page_img": 128
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "-29662226",
+    "hash_code_detail": "-795291368",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifdv1RyhbWYKfBdAtZJTFH4IeN4gSyzllD0RpAHF0dFPpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_d8af65aca8d7c8ffaaf757899f32a15f",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidCIa78MBt6R9y4GHLC5zPkMTCCBLcM9fXESaJTZP2phZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_513f8aae3e20eb53e81020fadd58091a",
       "page_img": 127
     }
   },
   {
     "id_tag": "1263817105",
     "index_page": 51,
-    "hash_code_detail": "-907495561",
+    "hash_code_detail": "-1401684007",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic2C4aUVe48MjSWLZvyO752nID9ifWzH3mkAYMLN0y5lJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_334909d7c37cb25b197d916b9f7e1e68",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMPYE6sq1fNNh39XCqnRJIY2jQmfNcpB1ZZQCV4ObtwZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_319eb89b28a5f4cbbdf0fbe46f721518",
       "page_img": 26
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "1551719503",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidNe79sJlooxR7GfTCrxhJIpHeCt2FzsiYRHzB/VPEADZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_2ea812d18831f1c7ea248fc983e986e7",
+      "page_img": 26
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "2045663334",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqBvmNs+9xHLy9BXRfU+m5oLnOsUnAqhj8bHqO3tbYuZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_052357dcbea9b7b7220aff27d9882db4",
+      "page_img": 125
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "1016227303",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifOmYM9PTIVsJwfmOSzYIDDhZfWcsnH21WPeX0lBCdmwpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_028f29485eefbd76c1ff47f4b1fc0920_crop_2_center",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "1325658756",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidjQpEEXA7zq12CD+uzUHG/L9kFLcEHG3ptX0debJDb95Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_586b6edf51093090bbff88198fe53ec2",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "394835111",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiictRUfWAwfAWFppyKPRCK48LGW1y0Ia2DP929mA2+Nb2ZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_20357df491cda7a046c74534bb5312d9",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "-699272913",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8QIiY8uceKHp3vBnJ7yB2TEZM8WC7WN1aqUatZ7v4e5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_53ce0550b7376ac24a9618e0344f007b",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "407014192",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidBrioFRn5Lgi68VT3LIyVaFPLBl/zOJLih0n4lbRF0h5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_35bcf85d282fe48bd956317560282a10",
+      "page_img": 127
+    }
+  },
+  {
+    "id_tag": "1263817105",
+    "index_page": 51,
+    "hash_code_detail": "1105671826",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiideNCNi/WfZSiFj6eRpX2P0yQ6SADOPvr5EuVpRw2lNWJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_004766920d144997a4a24c7c105fc3fc_crop_2_center",
+      "page_img": 25
     }
   }
 ]
